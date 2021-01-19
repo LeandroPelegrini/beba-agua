@@ -1,3 +1,3 @@
 #!/bin/sh 
 
-killall sh /home/leandro/DrinkWater/drinkwater.sh
+killall sh /path/to/script/drinkwater.sh
